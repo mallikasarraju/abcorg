@@ -1,4 +1,4 @@
-Program 1: Add Two Numbers
+Program 1: Add Two Numbers With hard-coded values
 
 # This program adds two numbers
 
